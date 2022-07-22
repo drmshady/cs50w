@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    
+    justify-content: end;
+}
+
+main{
+    height: calc(100vh - 40px);
+    
+}
+
+main #search{
+    width: 538px;
+}
+.search{
+    padding: 20px;
+}
+ .icon{
+    width: 20px;
+    
+    
+ }
+ .input{
+    padding: 18px 0px 0px;
+ }
+ .btn{
+    margin: 11px 4px;
+    padding: 0px 16px;
+ }
